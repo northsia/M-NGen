@@ -30,7 +30,7 @@ AV BYPASS :
 ### Discord Get Hacked Hehehe
 https://github.com/user-attachments/assets/a97de13d-781f-4c77-9763-14d198786eaf
 
-## Part Of Code : (It's Note All of The code)
+## Part Of Code :
 
 ```python
 # This is A part From The Code
